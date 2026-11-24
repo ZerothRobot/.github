@@ -1,29 +1,47 @@
 <div align="center">
-  <img src="../assets/zeroth-wordmark.png" alt="Zeroth" width="800" />
-
+  <img src="../assets/zeroth-wordmark.png" alt="Zeroth" width="480" />
   <h1>ZerothRobot</h1>
-  <p><strong>引领消费级具身智能。</strong></p>
-  <p><a href="README.md">English</a> · <a href="https://www.zeroth0.com/">官方网站</a></p>
-
-  <img src="../assets/robot-lineup.png" alt="Zeroth 机器人产品矩阵" width="800" />
+  <p><strong>消费级具身智能的开创者</strong></p>
+  <p>
+    <a href="README.md">English</a> ·
+    <a href="https://www.zeroth0.com/">官方网站</a> ·
+    <a href="https://zerothrobot.github.io/docs/">文档中心</a>
+  </p>
 </div>
 
-## 关于 Zeroth
+---
 
-元点智能 Zeroth 是苏州乐享智能科技有限公司旗下以具身智能为核心的消费级机器人品牌，专注于机器人与人工智能的研发及应用。我们相信，机器人不只是技术工具，也是人类意识、情感与想象力的延伸。我们希望以先进科技丰富生活，并推动消费级机器人走进更多真实场景。
+## 关于我们
 
-## 探索我们的产品与开源项目
+Zeroth 隶属于苏州乐享智能科技有限公司，是一家致力于机器人与人工智能研发及应用的高科技企业。
 
-| 项目 | 方向 | 仓库 |
+Zeroth 以具身智能为核心，正在塑造消费级机器人发展的新时代。我们相信，机器人不只是技术的延伸，更是人类意识、情感与想象力的映照。
+
+我们的使命是让机器人走进日常生活，以先进科技帮助人们从平凡琐务中解放出来，丰富生活的内涵。
+
+Zeroth 正引领消费级机器人发展的新浪潮。
+
+## 探索我们的项目
+
+### 在线仿真器
+
+[打开 ZerothRobot 在线仿真器 →](https://huggingface.co/spaces/ZerothRobot/ZerothRobot-simulator)
+
+<div align="center">
+  <a href="https://huggingface.co/spaces/ZerothRobot/ZerothRobot-simulator">
+    <img src="../assets/simulator-preview.png" alt="ZerothRobot 在线仿真器预览" width="100%" />
+  </a>
+</div>
+
+### 开源项目
+
+| 项目 | 简介 | 仓库 |
 | --- | --- | --- |
-| **M1 EDU** | 面向教育与二次开发的迷你机器人，开放强化学习训练基线。 | [Zeroth-M1](https://github.com/ZerothRobot/Zeroth-M1) |
-| **Bridge / OpenBridge** | 高性能小型人形机器人及其开源生态，覆盖硬件、技能与仿真。 | [openbridge](https://github.com/ZerothRobot/openbridge) |
-| **Joyin Arm** | 机械臂教学与开发平台，包含运动学、控制及 ROS 2 教程。 | [Joyin-Arm](https://github.com/joyin-dexhand/Joyin-Arm) |
-| **Origo** | 3D 打印全开源人形机器人，覆盖结构、训练、部署与 Web 体验。 | [origo](https://github.com/origo-robotics/origo) |
+| **M1 EDU** | 你的第一台 RL 人形机器人。 | [M1_EDU](https://github.com/ZerothRobot/M1_EDU) |
+| **RoboRigo** | 面向开发者的高度定制化全栈开源机器人平台。 | [roborigo](https://github.com/ZerothRobot/roborigo) |
+| **Bridge** | 天生为 AI 而造，随你而动。 | [openbridge](https://github.com/ZerothRobot/openbridge) |
 
-> 仓库归属和名称仍在整理中；如项目迁移，请以对应仓库的最新信息为准。
-
-## 加入社区，关注 Zeroth
+## 加入社区
 
 <div align="center">
 
@@ -36,4 +54,4 @@
 
 </div>
 
-QQ 和微信社群入口请访问官网获取最新信息。
+QQ 与微信社群正在筹备中，开放时间敬请期待。

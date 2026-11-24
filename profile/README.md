@@ -1,30 +1,47 @@
 <div align="center">
-  <img src="../assets/zeroth-wordmark.png" alt="Zeroth" width="800" />
-
+  <img src="../assets/zeroth-wordmark.png" alt="Zeroth" width="480" />
   <h1>ZerothRobot</h1>
-  <p><strong>Building consumer-grade embodied intelligence.</strong></p>
-  <p><a href="README.zh-CN.md">简体中文</a> · <a href="https://www.zeroth0.com/">Official website</a></p>
-
-  <img src="../assets/robot-lineup.png" alt="Zeroth robot product lineup" width="800" />
+  <p><strong>The Pioneer of Consumer-Grade Embodied Intelligence</strong></p>
+  <p>
+    <a href="README.zh-CN.md">简体中文</a> ·
+    <a href="https://www.zeroth0.com/">Official website</a> ·
+    <a href="https://zerothrobot.github.io/docs/">Documentation center</a>
+  </p>
 </div>
 
+---
 
-## About Zeroth
+## Who We Are
 
-YuanDian Intelligence (Zeroth) is a consumer robotics brand under Suzhou JoyIn Intelligent Technology Co., Ltd. Centered on embodied intelligence, we focus on the research, development, and application of robotics and AI. We see robots as more than tools: they can extend human consciousness, emotion, and imagination. Our goal is to make life richer through technology and bring consumer robots into more real-world settings.
+Zeroth, under Suzhou JoyIn Intelligent Technology Co., Ltd., is a high-tech enterprise dedicated to the research, development, and application of robotics and artificial intelligence.
 
-### Explore our products and open-source projects
+With embodied intelligence at its core, Zeroth is shaping the next era of consumer robotics. We believe robots are not merely extensions of technology, but reflections of human consciousness, emotion, and imagination.
 
-| Project | Focus | Repository |
+Our mission is to bring robots into everyday life, using advanced technology to free humanity from the ordinary and enrich the essence of living.
+
+At Zeroth, we are leading the next wave of consumer robotics.
+
+## Explore our projects
+
+### Online simulator
+
+[Open the ZerothRobot simulator →](https://huggingface.co/spaces/ZerothRobot/ZerothRobot-simulator)
+
+<div align="center">
+  <a href="https://huggingface.co/spaces/ZerothRobot/ZerothRobot-simulator">
+    <img src="../assets/simulator-preview.png" alt="Preview of the ZerothRobot online simulator" width="100%" />
+  </a>
+</div>
+
+### Open-source projects
+
+| Project | Description | Repository |
 | --- | --- | --- |
-| **M1 EDU** | A mini robot for education and secondary development, with open reinforcement-learning training baselines. | [Zeroth-M1](https://github.com/ZerothRobot/Zeroth-M1) |
-| **Bridge / OpenBridge** | A high-performance compact humanoid and an open ecosystem spanning hardware, skills, and simulation. | [openbridge](https://github.com/ZerothRobot/openbridge) |
-| **Joyin Arm** | A robotic-arm learning and development platform with kinematics, control, and ROS 2 tutorials. | [Joyin-Arm](https://github.com/joyin-dexhand/Joyin-Arm) |
-| **Origo** | A 3D-printed, fully open-source humanoid covering structure, training, deployment, and a web experience. | [origo](https://github.com/origo-robotics/origo) |
+| **M1 EDU** | The master key to humanoid robotics. | [M1_EDU](https://github.com/ZerothRobot/M1_EDU) |
+| **RoboRigo** | A highly customizable, full-stack open-source robotics platform for developers. | [roborigo](https://github.com/ZerothRobot/roborigo) |
+| **Bridge** | AI-native. Built to move your way. | [openbridge](https://github.com/ZerothRobot/openbridge) |
 
-> Repository ownership and names are still being organized. Please refer to each repository for the latest location.
-
-### Join the community and follow Zeroth
+## Join the community
 
 <div align="center">
 
@@ -37,4 +54,4 @@ YuanDian Intelligence (Zeroth) is a consumer robotics brand under Suzhou JoyIn I
 
 </div>
 
-For QQ and WeChat, please visit our website for the latest community entry points.
+QQ and WeChat communities are in the works. Stay tuned for updates.
