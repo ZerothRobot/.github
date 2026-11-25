@@ -57,9 +57,16 @@ AI-native. Built to move your way.
 
 ## RoboRigo
 
-A highly customizable, full-stack open-source robotics platform for developers.
+A fully open-source DIY robotics platform.
 
 [Explore the RoboRigo repository →](https://github.com/ZerothRobot/roborigo)
+
+<div align="center">
+  <img src="../assets/projects/roborigo-robot-dance.gif" alt="RoboRigo performing the robot dance" width="49%" />
+  <img src="../assets/projects/roborigo-fall-recovery.gif" alt="RoboRigo recovering from a fall" width="49%" />
+</div>
+
+A robot dance and a fall recovery, both performed by the same policy.
 
 ## Join the community
 

@@ -57,9 +57,16 @@ Zeroth 正引领消费级机器人发展的新浪潮。
 
 ## RoboRigo
 
-面向开发者的高度定制化全栈开源机器人平台。
+全开源 DIY 机器人平台。
 
 [查看 RoboRigo 项目 →](https://github.com/ZerothRobot/roborigo)
+
+<div align="center">
+  <img src="../assets/projects/roborigo-robot-dance.gif" alt="RoboRigo 跳机器人舞" width="49%" />
+  <img src="../assets/projects/roborigo-fall-recovery.gif" alt="RoboRigo 跌倒后起身" width="49%" />
+</div>
+
+机器人舞与跌倒起身，均由同一策略完成。
 
 ## 加入社区
 
