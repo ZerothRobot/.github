@@ -33,13 +33,33 @@ At Zeroth, we are leading the next wave of consumer robotics.
   </a>
 </div>
 
-### Open-source projects
+## M1 EDU
 
-| Project | Description | Repository |
-| --- | --- | --- |
-| **M1 EDU** | The master key to humanoid robotics. | [M1_EDU](https://github.com/ZerothRobot/M1_EDU) |
-| **RoboRigo** | A highly customizable, full-stack open-source robotics platform for developers. | [roborigo](https://github.com/ZerothRobot/roborigo) |
-| **Bridge** | AI-native. Built to move your way. | [openbridge](https://github.com/ZerothRobot/openbridge) |
+Your first RL-powered humanoid robot.
+
+[Explore M1 EDU →](https://github.com/ZerothRobot/M1_EDU)
+
+<div align="center">
+  <img src="../assets/projects/m1-tai-chi.gif" alt="M1 EDU performing tai chi" width="49%" />
+  <img src="../assets/projects/m1-dance.gif" alt="M1 EDU dancing" width="49%" />
+</div>
+
+## M3 (Bridge)
+
+AI-native. Built to move your way.
+
+[Explore OpenBridge →](https://github.com/ZerothRobot/openbridge)
+
+<div align="center">
+  <img src="../assets/projects/bridge-backflip.gif" alt="Bridge robot performing a backflip" width="49%" />
+  <img src="../assets/projects/bridge-dance.gif" alt="Bridge robot dancing" width="49%" />
+</div>
+
+## RoboRigo
+
+A highly customizable, full-stack open-source robotics platform for developers.
+
+[Explore the RoboRigo repository →](https://github.com/ZerothRobot/roborigo)
 
 ## Join the community
 

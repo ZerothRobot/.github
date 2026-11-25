@@ -33,13 +33,33 @@ Zeroth 正引领消费级机器人发展的新浪潮。
   </a>
 </div>
 
-### 开源项目
+## M1 EDU
 
-| 项目 | 简介 | 仓库 |
-| --- | --- | --- |
-| **M1 EDU** | 你的第一台 RL 人形机器人。 | [M1_EDU](https://github.com/ZerothRobot/M1_EDU) |
-| **RoboRigo** | 面向开发者的高度定制化全栈开源机器人平台。 | [roborigo](https://github.com/ZerothRobot/roborigo) |
-| **Bridge** | 天生为 AI 而造，随你而动。 | [openbridge](https://github.com/ZerothRobot/openbridge) |
+你的第一台 RL 人形机器人。
+
+[探索 M1 EDU →](https://github.com/ZerothRobot/M1_EDU)
+
+<div align="center">
+  <img src="../assets/projects/m1-tai-chi.gif" alt="M1 EDU 演示太极动作" width="49%" />
+  <img src="../assets/projects/m1-dance.gif" alt="M1 EDU 舞蹈动作" width="49%" />
+</div>
+
+## M3（Bridge）
+
+天生为 AI 而造，随你而动。
+
+[探索 OpenBridge →](https://github.com/ZerothRobot/openbridge)
+
+<div align="center">
+  <img src="../assets/projects/bridge-backflip.gif" alt="Bridge 机器人后空翻动作" width="49%" />
+  <img src="../assets/projects/bridge-dance.gif" alt="Bridge 机器人舞蹈动作" width="49%" />
+</div>
+
+## RoboRigo
+
+面向开发者的高度定制化全栈开源机器人平台。
+
+[查看 RoboRigo 项目 →](https://github.com/ZerothRobot/roborigo)
 
 ## 加入社区
 
