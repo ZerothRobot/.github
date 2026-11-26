@@ -44,7 +44,7 @@ Your first RL-powered humanoid robot.
   <img src="../assets/projects/m1-dance.gif" alt="M1 EDU dancing" width="49%" />
 </div>
 
-## M3 (Bridge)
+## Bridge
 
 AI-native. Built to move your way.
 
